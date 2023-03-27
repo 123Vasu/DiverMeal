@@ -64,7 +64,7 @@ const DashboardScreen = ({navigation}) => {
     const options = {
       method: 'GET',
       headers: {
-        'X-RapidAPI-Key': 'bb7546689emsh7a73aa4a8d1f5aep1dc21bjsn9fe4f6ac5ef2',
+        'X-RapidAPI-Key': '2412401f2fmshcb19f947e062ec0p12da7djsn4df2fead0578',
         'X-RapidAPI-Host': 'tasty.p.rapidapi.com'
       }
     };

@@ -18,7 +18,7 @@ function SplashScreen({ navigation }) {
       <StatusBar barStyle="dark-content" />
       <Image
         style={styles.logo}
-        source={require("../../assets/diversiFood.png")}
+        source={require("../../assets/DiverMeal.png")}
       />
       <Text style={styles.description}>
         Providing personal, nutritious, and diverse meal recommendations

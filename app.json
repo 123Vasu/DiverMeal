@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "diversiFood",
-    "slug": "diversiFood",
+    "name": "DiverMeal",
+    "slug": "DiverMeal",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
